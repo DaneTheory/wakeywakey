@@ -1,0 +1,22 @@
+{
+  "name": "wakeywakey",
+  "version": "1.0.0",
+  "description": "App to call your phone at a certain time acting as an alarm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kabirvirji/wakeywakey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kabirvirji/wakeywakey/issues"
+  },
+  "homepage": "https://github.com/kabirvirji/wakeywakey#readme",
+  "dependencies": {
+    "twilio": "^2.11.1"
+  }
+}
